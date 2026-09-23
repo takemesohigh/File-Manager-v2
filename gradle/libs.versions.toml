@@ -5,7 +5,7 @@ kotlin = "1.9.0"
 androidx-swiperefreshlayout = "1.1.0"
 androidx-documentfile = "1.0.1"
 #Simple tools
-simple-commons = "13f995cb51"
+commons = "1.0.0"
 #Other
 autofittextview = "0.2.1"
 gestureviews = "2.5.2"
@@ -30,7 +30,7 @@ app-version-versionName = "6.16.1"
 androidx-swiperefreshlayout = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version.ref = "androidx-swiperefreshlayout" }
 androidx-documentfile = { module = "androidx.documentfile:documentfile", version.ref = "androidx-documentfile" }
 #Simple Mobile Tools
-simple-tools-commons = { module = "com.github.SimpleMobileTools:Simple-Commons", version.ref = "simple-commons" }
+commons = { module = "com.github.takemesohigh:Commons", version.ref = "commons" }
 #Other
 androidpdfviewer = { module = "com.github.tibbi:AndroidPdfViewer", version.ref = "androidpdfviewer" }
 autofittextview = { module = "me.grantland:autofittextview", version.ref = "autofittextview" }
