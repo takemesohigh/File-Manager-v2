@@ -21,21 +21,3 @@ Despite called Simple File Manager, it will help you manage & customize your fil
 You can use the built in Storage Analysis to have a quick overview about what files are taking up the most space and clean it up. It can function as a storage cleaner that will help empty some space on your device.
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
-
-<a href="https://f-droid.org/packages/com.simplemobiletools.filemanager.pro">Get it on F-Droid</a>
-
-Support us:  
-IBAN: SK4083300000002000965231  
-Bitcoin: 19Hc8A7sWGud8sP19VXDC5a5j28UyJfpyJ  
-Ethereum: 0xB7a2DD6f2408Bce77334655CF5E7639aE31feb30  
-Litecoin: LYACbHTKaM9ZubKQGxJ4NRyVy1gHUuztRP  
-Bitcoin Cash: qz6dvmhq5vzkcsypxpp2mnur30muxdah4gvulx3y85  
-Tether: 0x250f9cC32863E59b87037a14955Ed64F879653F0  
-<a href="https://paypal.me/SimpleMobileTools?country.x=SK&locale.x=en_US">PayPal</a>  
-<a href="https://www.patreon.com/tiborkaputa">Patreon</a>
-
-<div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.jpeg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.jpeg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.jpeg" width="30%">
-</div>
