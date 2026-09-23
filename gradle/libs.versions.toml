@@ -10,8 +10,8 @@ commons = "1.0.0"
 autofittextview = "0.2.1"
 gestureviews = "2.5.2"
 androidpdfviewer = "e6a533125b"
-rootshell = "1.6"
-roottools = "df729dcb13"
+rootshell = "bc7e5d398e"
+roottools = "965c154e20"
 zip4j = "2.11.5"
 #Gradle
 gradlePlugins-agp = "8.1.1"
@@ -35,8 +35,8 @@ commons = { module = "com.github.takemesohigh:Commons", version.ref = "commons" 
 androidpdfviewer = { module = "com.github.tibbi:AndroidPdfViewer", version.ref = "androidpdfviewer" }
 autofittextview = { module = "me.grantland:autofittextview", version.ref = "autofittextview" }
 gestureviews = { module = "com.alexvasilkov:gesture-views", version.ref = "gestureviews" }
-rootshell = { module = "com.github.Stericson:RootShell", version.ref = "rootshell" }
-roottools = { module = "com.github.Stericson:RootTools", version.ref = "roottools" }
+rootshell = { module = "com.github.naveensingh:RootShell", version.ref = "rootshell" }
+roottools = { module = "com.github.naveensingh:RootTools", version.ref = "roottools" }
 zip4j = { module = "net.lingala.zip4j:zip4j", version.ref = "zip4j" }
 [plugins]
 android = { id = "com.android.application", version.ref = "gradlePlugins-agp" }
